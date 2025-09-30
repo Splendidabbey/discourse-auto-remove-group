@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    auto_remove_group_enabled: "Enable auto-adding new users to a group and removing later"
+    auto_remove_group_group_name: "Target group name (slug) to auto-add new users to"
+    auto_remove_group_duration_days: "Days to wait before removing user from the group"
+    auto_remove_group_debug: "Enable debug logging for auto add/remove group plugin"

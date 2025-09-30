@@ -1,0 +1,13 @@
+plugins:
+  auto_remove_group_enabled:
+    default: false
+    client: false
+  auto_remove_group_group_name:
+    default: ""
+    type: text
+  auto_remove_group_duration_days:
+    default: 7
+    type: number
+  auto_remove_group_debug:
+    default: false
+    client: false
