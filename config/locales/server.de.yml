@@ -1,0 +1,6 @@
+de:
+  site_settings:
+    auto_remove_group_enabled: "Automatisches Hinzufügen neuer Benutzer zu einer Gruppe und späteres Entfernen aktivieren"
+    auto_remove_group_group_name: "Zielgruppenname (Slug), zu der neue Benutzer automatisch hinzugefügt werden"
+    auto_remove_group_duration_days: "Anzahl der Tage, bevor der Benutzer aus der Gruppe entfernt wird"
+    auto_remove_group_debug: "Debug-Protokollierung für das Plugin zum automatischen Hinzufügen/Entfernen aktivieren"
